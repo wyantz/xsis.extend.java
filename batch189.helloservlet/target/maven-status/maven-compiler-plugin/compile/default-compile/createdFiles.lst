@@ -1,1 +1,5 @@
+com\bootcamp\web\BiodataController.class
+com\bootcamp\StringDateConverter.class
+com\bootcamp\web\BiodataRestController.class
 com\bootcamp\web\FormBiodataServlet.class
+com\bootcamp\model\Biodata.class
