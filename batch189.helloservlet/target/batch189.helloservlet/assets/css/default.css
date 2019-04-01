@@ -1,0 +1,27 @@
+	body {
+		background-color: lightblue !important;
+	}
+
+	h1 {
+		color: white;
+		text-align: center;
+	}
+	
+	p {
+		font-family: verdana;
+		font-size: 20px;
+	}
+	
+	p#p1 {
+		font-family: verdana;
+		font-size: 20px;
+		color: navy;
+	}
+
+	.biru {
+		color: blue;
+	}
+	
+	#merah {
+		color: red;
+	}
