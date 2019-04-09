@@ -7,7 +7,7 @@
 <title>Login</title>
 </head>
 <body>
-<form action="${pageContext.request.contextPath}/login.do" method="post">
+<form action="${pageContext.request.contextPath}/j_spring_security_check" method="post">
 Username <input type="text" name="username"><br>
 Password <input type="password" name="password"><br>
 <input type="submit" value="Login">
