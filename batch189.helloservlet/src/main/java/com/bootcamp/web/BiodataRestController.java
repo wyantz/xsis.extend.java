@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.bootcamp.model.Biodata;
 
 @RestController
-@RequestMapping("/biodata-rest")
+@RequestMapping("/secure/biodata-rest")
 public class BiodataRestController {
 	
 	@RequestMapping(value="/", method=RequestMethod.GET)

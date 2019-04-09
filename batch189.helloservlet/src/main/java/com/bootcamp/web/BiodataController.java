@@ -17,7 +17,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import com.bootcamp.model.Biodata;
 
 @Controller
-@RequestMapping("/biodata")
+@RequestMapping("/secure/biodata")
 public class BiodataController {
 	
 	@RequestMapping("index.html")
